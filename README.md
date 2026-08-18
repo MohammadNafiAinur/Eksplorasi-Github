@@ -22,3 +22,9 @@ melakukan commit, push, branch, pull, dan pengelolaan repository.
 - Pull Request
 - Issues
 - Collaboration
+
+## Eksplorasi Branch
+
+Perubahan ini dibuat pada branch `fitur-eksplorasi`.
+Branch digunakan untuk mengembangkan perubahan secara terpisah
+sebelum perubahan tersebut digabungkan ke branch utama.
